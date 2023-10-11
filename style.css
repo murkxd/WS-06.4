@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: orange;
+    width: 100vw;
+    height: 10vh;
+}
+
+aside {
+    background-color: darkkhaki;
+    border-top: 20px solid lightcoral;
+    border-left: 20px solid lightcoral;
+    width: 20vw;
+    height: 60vh;
+    float: left;
+}
+
+main {
+    background-color: lightseagreen;
+    border-top: 20px solid lightcoral;
+    width: 25vw;
+    height: 60vh;
+    float: left;
+}
+
+sub {
+    background-color: turquoise;
+    border-top: 20px solid lightcoral;
+    border-right: 20px solid lightcoral;
+    width: 25vw;
+    height: 60vh;
+    float: left;
+}
+
+footer {
+    background-color: lightgreen;
+    border-right: 20px solid lightcoral;
+    border-left: 20px solid lightcoral;
+    border-bottom: 20px solid lightcoral;
+    width: 70vw;
+    height: 10vh;
+    clear: left;
+}
